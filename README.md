@@ -1,4 +1,6 @@
 # shoe-sandal-boot-image-classification
+Deep Learning project for footwear classification (Shoe/Sandal/Boot) trained on 15k images. Implements a robust preprocessing pipeline (Contrast Enhancement, Canny Edge Detection) to focus on shape features. Model exported to TFLite and TFJS for deployment.
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.X-orange)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
