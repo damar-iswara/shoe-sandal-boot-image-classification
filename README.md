@@ -61,11 +61,12 @@ Evaluasi dilakukan menggunakan data testing yang tidak pernah dilihat model sebe
 
 | Metrik | Hasil (Approx) |
 | :--- | :--- |
-| **Akurasi Test** | *~XX.XX%* (Isi sesuai hasil run terakhirmu) |
-| **Loss Test** | *0.XXXX* |
+| **Akurasi Test** | *~97.33%* |
+| **Loss Test** | *0.0862* |
 
 ### Visualisasi Performa
-*(Disarankan: Upload screenshot grafik Accuracy/Loss dan Confusion Matrix dari notebook ke folder `assets/` di repo ini dan link di sini)*
+<img width="513" height="470" alt="image" src="https://github.com/user-attachments/assets/77ecc1e4-f5da-4d82-ac34-c8f3f827c2bc" />
+
 
 ## 📱 Deployment
 
@@ -79,8 +80,8 @@ Proyek ini tidak hanya berhenti di *notebook*. Model telah dikonversi ke format 
 
 1.  **Clone Repository**
     ```bash
-    git clone [https://github.com/username-anda/shoe-sandal-boot-classification.git](https://github.com/username-anda/shoe-sandal-boot-classification.git)
-    cd shoe-sandal-boot-classification
+    git clone [https://github.com/damar-iswara/shoe-sandal-boot-image-classification.git](https://github.com/damar-iswara/shoe-sandal-boot-image-classification.git)
+    cd shoe-sandal-boot-image-classification
     ```
 
 2.  **Install Dependencies**
@@ -89,15 +90,12 @@ Proyek ini tidak hanya berhenti di *notebook*. Model telah dikonversi ke format 
     ```
 
 3.  **Jalankan Notebook**
-    Buka `Submission_Akhir_BFDL.ipynb` menggunakan Jupyter Notebook atau Google Colab.
+    Buka `main.ipynb` menggunakan Jupyter Notebook atau Google Colab.
 
     *Catatan: Pastikan Anda memiliki kredensial Kaggle atau mendownload dataset secara manual jika menjalankan di lokal.*
 
 ## 👤 Author
 **Wahyu Damar Iswara**
-* Email: w.damar.iswara@gmail.com
-* ID Dicoding: M180D5Y1948
 * [LinkedIn](https://linkedin.com/in/wahyudamariswara)
 
 ---
-*Dibuat sebagai bagian dari Submission Akhir Belajar Fundamental Deep Learning (Dicoding).*
